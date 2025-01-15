@@ -13,6 +13,23 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,git,github,nodejs,html,css&theme=light)](https://skillicons.dev)
 
 ### Let's Network:
+<!-- display the social media buttons in your README -->
+
+[![facebook](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Facebook.png (Facebook))][1]
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter.png (Twitter))][3]
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
+[![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
+
+
+<!-- To Link your profile to the media buttons -->
+
+[1]: https://www.facebook.com/username
+[2]: https://www.instagram.com/username
+[3]: [https://www.twitter.com/username](https://twitter.com/OkokoTimineri)
+[4]: [https://www.linkedin.com/in/username](https://www.linkedin.com/in/timineri-okoko/)
+[5]: https://www.github.com/username](https://github.com/Timineri)
+
 
 ---
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=timineri&show_icons=true&include_all_commits=true&hide_border=true" alt="Timineri's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timineri&langs_count=8&layout=compact&hide_border=true" alt="Timineri's GitHub stats" /> |
