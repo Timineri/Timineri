@@ -24,11 +24,11 @@
 
 <!-- To Link your profile to the media buttons -->
 
-[1]: https://www.facebook.com/username
-[2]: https://www.instagram.com/username
-[3]: [https://www.twitter.com/username](https://twitter.com/OkokoTimineri)
-[4]: [https://www.linkedin.com/in/username](https://www.linkedin.com/in/timineri-okoko/)
-[5]: https://www.github.com/username](https://github.com/Timineri)
+[1]: https://www.facebook.com/timineri.okoko.5
+[2]: https://www.instagram.com/prinkie._.koko
+[3]: https://www.twitter.com/OkokoTimineri
+[4]: https://www.linkedin.com/in/timineri-okoko
+[5]: https://www.github.com/Timineri
 
 
 ---
