@@ -12,6 +12,13 @@
 ### Languages and Tools: 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,git,github,nodejs,html,css&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://www.javascript.com/)
+[![My Skills](https://skillicons.dev/icons?i=typescript&theme=light)](https://www.typescriptlang.org/)
+[![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://react.dev/)
+[![My Skills](https://skillicons.dev/icons?i=git&theme=light)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=github&theme=light)](https://github.com/)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://nodejs.org/en)
+[![My Skills](https://skillicons.dev/icons?i=html&theme=light)](https://html.com/)
+[![My Skills](https://skillicons.dev/icons?i=css&theme=light)](https://css-tricks.com/)
 
 ### Let's Network:
 <!-- display the social media buttons in your README -->
