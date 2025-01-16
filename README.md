@@ -11,6 +11,7 @@
 
 ### Languages and Tools: 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,git,github,nodejs,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://www.javascript.com/)
 
 ### Let's Network:
 <!-- display the social media buttons in your README -->
