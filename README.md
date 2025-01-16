@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning React.js, JavaScript and Typescript.
 - 👯 I’m looking to collaborate on a live website.
 - 💬 Ask me about web development.
-- ⚡ Fun fact:
+
 
 ### Languages and Tools: 
 [![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://www.javascript.com/)
