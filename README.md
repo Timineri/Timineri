@@ -10,7 +10,6 @@
 - ⚡ Fun fact:
 
 ### Languages and Tools: 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,git,github,nodejs,html,css&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=javascript&theme=light)](https://www.javascript.com/)
 [![My Skills](https://skillicons.dev/icons?i=typescript&theme=light)](https://www.typescriptlang.org/)
 [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://react.dev/)
